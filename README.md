@@ -4,7 +4,7 @@
 ## Windows
 
 ## Linux
-
+(https://raw.githubusercontent.com/ADkii-q/GAME-C/main/screen/gcc.png)
 
 ## Web
 
