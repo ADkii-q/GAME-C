@@ -3,6 +3,17 @@
 
 ## Windows
 
+Чтобы запустить игру на Windows, вам нужно установить MinGW-w64, затем создать файл make.bat в каталоге, где находится ваш исходный код, и написать строки, указанные ниже:
+
+* `PATH=путь к mingw64/bin`
+
+* `gcc .c`
+
+Затем, например, в VS Code откройте терминал и введите:
+
+* `./make.bat`
+Затем запустите приложение .exe.
+
 ![Alt-текст](https://raw.githubusercontent.com/ADkii-q/GAME-C/main/screen/win.png)
 
 ## Linux
