@@ -9,7 +9,14 @@
 ![Alt-текст](https://raw.githubusercontent.com/ADkii-q/GAME-C/main/screen/gcc.png)
 
 ## Web
+Инструкции по установке с использованием emsdk
 
+Основной драйвер Emscripten SDK (emsdk) представляет собой сценарий Python. Вы можете получить его в первый раз с
+# Get the emsdk repo
+git clone https://github.com/emscripten-core/emsdk.git
+
+# Enter that directory
+cd emsdk
 ![Alt-текст](https://raw.githubusercontent.com/ADkii-q/GAME-C/main/screen/web.png)
 
 ## Android
