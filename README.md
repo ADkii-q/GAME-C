@@ -19,13 +19,14 @@ emsdk repo
 
 #Enter that directory
 cd emsdk
-![Alt-текст](https://raw.githubusercontent.com/ADkii-q/GAME-C/main/screen/web.png)
 
 Выполните следующие команды emsdk, чтобы получить последние инструменты с GitHub и сделать их активными:
-git pull
-./emsdk install latest
-./emsdk activate latest
-source ./emsdk_env.sh
+*git pull
+*./emsdk install latest
+*./emsdk activate latest
+*source ./emsdk_env.sh
+
+![Alt-текст](https://raw.githubusercontent.com/ADkii-q/GAME-C/main/screen/web.png)
 ## Android
 Для запуска игры на Android вам необходимо скачать и установить компилятор C/C++. Затем сохраните файл с исходным кодом из этого репозитория с расширением .c и запустите компилятор.
 
