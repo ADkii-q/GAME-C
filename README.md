@@ -13,9 +13,8 @@
 
 Основной драйвер Emscripten SDK (emsdk) представляет собой сценарий Python. Вы можете получить его в первый раз с
 
-#Get the 
-* `emsdk repo`
-[git clone](https://github.com/emscripten-core/emsdk.git)
+#Get the emsdk repo
+*`git clone https://github.com/emscripten-core/emsdk.git`
 
 #Enter that directory
 * `cd emsdk`
