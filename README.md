@@ -3,7 +3,12 @@
 
 ## Windows
 
---ghjg
+diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
 
 ![Alt-текст](https://raw.githubusercontent.com/ADkii-q/GAME-C/main/screen/win.png)
 
