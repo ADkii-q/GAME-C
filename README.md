@@ -3,11 +3,14 @@
 
 ## Windows
 
+![Alt-текст](https://raw.githubusercontent.com/ADkii-q/GAME-C/main/screen/win.png)
+
 ## Linux
 ![Alt-текст](https://raw.githubusercontent.com/ADkii-q/GAME-C/main/screen/gcc.png)
 
 ## Web
 
+![Alt-текст](https://raw.githubusercontent.com/ADkii-q/GAME-C/main/screen/web.png)
 
 ## Android
 Для запуска игры на Android вам необходимо скачать и установить компилятор C/C++. Затем сохраните файл с исходным кодом из этого репозитория с расширением .c и запустите компилятор.
