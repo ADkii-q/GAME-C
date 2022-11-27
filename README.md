@@ -21,10 +21,10 @@
 * cd emsdk
 
 Выполните следующие команды emsdk, чтобы получить последние инструменты с GitHub и сделать их активными:
-* 'git pull'
-* './emsdk install latest'
-* ./emsdk activate latest
-* source ./emsdk_env.sh
+* `git pull`
+* `./emsdk install latest
+* `./emsdk activate latest
+* `source ./emsdk_env.sh`
 
 В Windows запустите emsdk вместо ./emsdk и emsdk_env.bat вместо исходного ./emsdk_env.sh.
 
