@@ -13,7 +13,7 @@
 
 * `./make.bat`
 
-Затем запустите приложение .exe.
+Затем запустите приложение a.exe.
 
 ![Alt-текст](https://raw.githubusercontent.com/ADkii-q/GAME-C/main/screen/win.png)
 
