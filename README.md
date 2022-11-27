@@ -3,8 +3,6 @@
 
 ## Windows
 
-`sudo apt update`
-
 ![Alt-текст](https://raw.githubusercontent.com/ADkii-q/GAME-C/main/screen/win.png)
 
 ## Linux
@@ -23,8 +21,8 @@
 * cd emsdk
 
 Выполните следующие команды emsdk, чтобы получить последние инструменты с GitHub и сделать их активными:
-* git pull
-* ./emsdk install latest
+* 'git pull'
+* './emsdk install latest'
 * ./emsdk activate latest
 * source ./emsdk_env.sh
 
