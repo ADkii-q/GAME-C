@@ -3,8 +3,8 @@
 
 ## Windows
 
-<img/>
-<img>
+=dfs=
+-asd-
 
 ![Alt-текст](https://raw.githubusercontent.com/ADkii-q/GAME-C/main/screen/win.png)
 
