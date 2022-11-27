@@ -2,9 +2,10 @@
 Игра [Rabbit Chase](https://www.atariarchives.org/morebasicgames/showpage.php?page=132)
 
 ## Windows
-/sdfssd
-./sdfsd
-../dfsdf
+
+<img/>
+<img>
+
 ![Alt-текст](https://raw.githubusercontent.com/ADkii-q/GAME-C/main/screen/win.png)
 
 ## Linux
