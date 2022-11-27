@@ -25,6 +25,7 @@
 * ./emsdk install latest
 * ./emsdk activate latest
 * source ./emsdk_env.sh
+В Windows запустите emsdk вместо ./emsdk и emsdk_env.bat вместо исходного ./emsdk_env.sh.
 
 ![Alt-текст](https://raw.githubusercontent.com/ADkii-q/GAME-C/main/screen/web.png)
 ## Android
