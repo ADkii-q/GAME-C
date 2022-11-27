@@ -12,6 +12,7 @@
 Затем, например, в VS Code откройте терминал и введите:
 
 * `./make.bat`
+
 Затем запустите приложение .exe.
 
 ![Alt-текст](https://raw.githubusercontent.com/ADkii-q/GAME-C/main/screen/win.png)
