@@ -3,7 +3,7 @@
 
 ## Windows
 
-**This is bold text**	
+- `sudo apt update`
 
 ![Alt-текст](https://raw.githubusercontent.com/ADkii-q/GAME-C/main/screen/win.png)
 
