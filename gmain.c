@@ -87,7 +87,6 @@ int main() {
 
     H = 1;
 
-    //int go = true;
     for (;;)
     {
         D1 = ((int)(rnd(1) * 359));
